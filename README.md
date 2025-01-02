@@ -44,6 +44,3 @@ npm run dev
 ```bash
 npm run build
 ```
-
-### ChatGPT
-7:17pm Test
